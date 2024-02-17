@@ -39,3 +39,4 @@ int main(){
     cin>>N;
     cout<<divisors(N);
 }
+//this is a code for finding numbers with exactly 3 divisors
